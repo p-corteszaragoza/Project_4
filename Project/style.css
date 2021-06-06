@@ -1,0 +1,33 @@
+body {
+    background-color: #f2f0ee;
+}
+h3 {
+    width: 92%;
+}
+header {
+    background-image:url("header-banner.PNG");
+    height: 100%;
+    padding: 4rem 8rem;
+    text-align: center;
+    color: white;
+}
+.btn {
+    background-color: black;
+    color:white;
+    border: none;
+}
+.line {
+    border-left: .3rem solid #0B588B;
+    height: 5rem;
+}
+.task {
+    display: flex;
+    flex-flow: row wrap;
+}
+.btn:hover {
+    background-color: gray;
+    color:black;
+}
+.card:hover {
+    background-color: #C9DDEA;
+}
